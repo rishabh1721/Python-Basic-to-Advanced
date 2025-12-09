@@ -37,6 +37,7 @@ print(f'My name is: {user}')
 
 #refactoring to day -1 directory
 print(f'My age is: {app}')
+print("completed")
 
 
 

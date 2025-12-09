@@ -35,6 +35,9 @@ print(f"And from that day, they coded smarter, not harder—legend in the making
 
 print(f'My name is: {user}')
 
+#refactoring to day -1 directory
+print(f'My age is: {app}')
+
 
 
 
